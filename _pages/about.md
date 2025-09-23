@@ -29,6 +29,7 @@ Presented at: AFA 2026 PhD Poster (scheduled), BU Brownbag
   Maturity Overhang: Evidence from M&A
 </a>
 
+[Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419){:.link-plain}
 
 with _Zhiyao Chen_, _Dirk Hackbarth_, and _Jarrad Harford_
 
