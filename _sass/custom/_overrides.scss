@@ -1,0 +1,11 @@
+/* Force avatar to be a perfect circle, cropping if needed */
+.author__avatar {
+  width: 160px;            /* pick a size you like */
+  height: 160px;           /* must equal width */
+}
+.author__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;       /* center-crop to square */
+  border-radius: 50%;
+}
