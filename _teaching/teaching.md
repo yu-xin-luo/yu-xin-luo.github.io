@@ -8,6 +8,15 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
+**Instructor, Boston University**
+
+FE 449: Corporate Financial Management (Undergrad), 2025
+
+**Teaching Assistant, Boston University**
+
+FE 449: Corporate Financial Management (Undergrad), 2022 – 2024
+
+
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
