@@ -25,7 +25,7 @@ targets but incur issuance/verification and compliance costs. The model shows th
 alone is sufficient to generate the observed credit improvements and equity outperformance.
 
 # Working Papers
-## [Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)
+**[Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)**
 with _Zhiyao Chen_, _Dirk Hackbarth_, and _Jarrad Harford_
 
 In the context of mergers and acquisitions, this paper analyzes a maturity overhang problem that is due to shorter
@@ -53,8 +53,8 @@ issuance.
 
 
 # Teaching
-## Instructor, Boston University
-FE 449: Corporate Financial Management (2025)
+**Instructor, Boston University**
+FE 449: Corporate Financial Management (Undergrad), 2025
 
-## Teaching Assistant, Boston University
-FE 449: Corporate Financial Management (2022 – 2024)
+**Teaching Assistant, Boston University**
+FE 449: Corporate Financial Management (Undergrad), 2022 – 2024
