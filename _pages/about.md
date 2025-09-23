@@ -22,14 +22,7 @@ Presented at: AFA 2026 PhD Poster (scheduled), BU Brownbag
 
 ## Working Papers
 
-**<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419" style="color: black; text-decoration: underline;text-decoration-style: solid;">Maturity Overhang: Evidence from M&A</a>**
-
-
-<a class="link-plain" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419">
-  Maturity Overhang: Evidence from M&A
-</a>
-
-[Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419){:.link-plain}
+**[Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)**
 
 with _Zhiyao Chen_, _Dirk Hackbarth_, and _Jarrad Harford_
 
@@ -37,7 +30,7 @@ In the context of mergers and acquisitions, this paper analyzes a maturity overh
 
 Presented at: AFA, MFA, FIRS, CICF, Asian FA, SFS Cavalcade AP, Spring Finance Workshop, Xiamen University, BU Brownbag
 
-**<a href="https://www.dropbox.com/scl/fi/9c58ardi3r066gkdpagpp/main.pdf?rlkey=0kwu57z4hxue04etxab2p2suf\&dl=0" style="color: black; text-decoration: underline;text-decoration-style: solid;">Capital Structure and Environmental Risk</a>**
+**[Capital Structure and Environmental Risk](https://www.dropbox.com/scl/fi/9c58ardi3r066gkdpagpp/main.pdf?rlkey=0kwu57z4hxue04etxab2p2suf\&dl=0)**
 
 with _Dirk Hackbarth_
 
