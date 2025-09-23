@@ -27,7 +27,7 @@ alone is sufficient to generate the observed credit improvements and equity outp
 # Working Papers
 **[Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)**
 
-**<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Maturity Overhang: Evidence from M&A</a>**
+**<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419" style="color: black; text-decoration: underline;text-decoration-style: solid;">Maturity Overhang: Evidence from M&A</a>**
 
 with _Zhiyao Chen_, _Dirk Hackbarth_, and _Jarrad Harford_
 
