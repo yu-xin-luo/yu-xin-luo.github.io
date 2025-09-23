@@ -24,6 +24,10 @@ Presented at: AFA 2026 PhD Poster (scheduled), BU Brownbag
 
 **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419" style="color: black; text-decoration: underline;text-decoration-style: solid;">Maturity Overhang: Evidence from M&A</a>**
 
+
+### [Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)
+
+
 with _Zhiyao Chen_, _Dirk Hackbarth_, and _Jarrad Harford_
 
 In the context of mergers and acquisitions, this paper analyzes a maturity overhang problem that is due to shorter debt maturities creating higher rollover risk. Using bond transaction data, we develop a market-based measure of rollover risk and find that i) rollover risk dampens merger activities at the firm and aggregate levels; ii) acquirers facing higher rollover risk are more sensitive to changes in cash reserves and prefer equity as a payment method over cash; and iii) positive market reactions to cash payment are observed only when firms have low rollover risk. To shed light on our empirical findings, we study a dynamic investment model that underscores the importance of precautionary savings and rollover risk for maturity overhang.
