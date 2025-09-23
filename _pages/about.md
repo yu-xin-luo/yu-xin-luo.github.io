@@ -12,8 +12,8 @@ Welcome!
 I am a Ph.D. candidate in Finance at Boston University (BU). My research interests are **Corporate Finance**, **Capital Structure**, **ESG (Environmental, Social, and Governance)**. I am on the 2025-2026 job market.
 
 
-# Job Market Paper
-## Sustainability-linked Loans and Financial Benefits
+## Job Market Paper
+**Sustainability-linked Loans and Financial Benefits**
 
 Using a sample of bank loans issued between 2016 and 2022, I find that firms issuing sustainability-linked loans
 (SLLs) experience credit rating upgrades and higher post-issuance equity returns relative to firms issuing conventional
