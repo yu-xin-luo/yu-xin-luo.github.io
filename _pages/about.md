@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuxin Luo's Personal Website"
+title: "Yuxin Luo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,7 @@ I am a Ph.D. candidate in Finance at Boston University (BU). My research interes
 
 # Job Market Paper
 ## Sustainability-linked Loans and Financial Benefits
+
 Using a sample of bank loans issued between 2016 and 2022, I find that firms issuing sustainability-linked loans
 (SLLs) experience credit rating upgrades and higher post-issuance equity returns relative to firms issuing conventional
 loans. To address potential endogeneity, I instrument SLL issuance with the EU Taxonomy and obtain
@@ -25,7 +26,8 @@ alone is sufficient to generate the observed credit improvements and equity outp
 
 # Working Papers
 ## [Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)
-with Zhiyao Chen, Dirk Hackbarth, and Jarrad Harford
+with __Zhiyao Chen__, Dirk Hackbarth, and Jarrad Harford
+
 In the context of mergers and acquisitions, this paper analyzes a maturity overhang problem that is due to shorter
 debt maturities creating higher rollover risk. Using bond transaction data, we develop a market-based measure of
 rollover risk and find that i) rollover risk dampens merger activities at the firm and aggregate levels; ii) acquirers
