@@ -16,14 +16,7 @@ I am a Ph.D. candidate in Finance at Boston University (BU). My research interes
 ## Job Market Paper
 **Sustainability-linked Loans and Financial Benefits**
 
-Using a sample of bank loans issued between 2016 and 2022, I find that firms issuing sustainability-linked loans
-(SLLs) experience credit rating upgrades and higher post-issuance equity returns relative to firms issuing conventional
-loans. To address potential endogeneity, I instrument SLL issuance with the EU Taxonomy and obtain
-consistent estimates. Channel tests then indicate that these effects arise primarily through reduced financing
-costs rather than investor-demand (signaling) channels. To rationalize the findings, I develop a model in which
-firms choose between SLLs and conventional loans: SLLs offer lower coupons conditional on meeting sustainability
-targets but incur issuance/verification and compliance costs. The model shows that the financing-cost reduction
-alone is sufficient to generate the observed credit improvements and equity outperformance.
+Using a sample of bank loans issued between 2016 and 2022, I find that firms issuing sustainability-linked loans (SLLs) experience credit rating upgrades and higher post-issuance equity returns relative to firms issuing conventional loans. To address potential endogeneity, I instrument SLL issuance with the EU Taxonomy and obtain consistent estimates. Channel tests then indicate that these effects arise primarily through reduced financing costs rather than investor-demand (signaling) channels. To rationalize the findings, I develop a model in which firms choose between SLLs and conventional loans: SLLs offer lower coupons conditional on meeting sustainability targets but incur issuance/verification and compliance costs. The model shows that the financing-cost reduction alone is sufficient to generate the observed credit improvements and equity outperformance.
 
 Presented at: AFA 2026 PhD Poster (scheduled), BU Brownbag
 
@@ -33,13 +26,7 @@ Presented at: AFA 2026 PhD Poster (scheduled), BU Brownbag
 
 with _Zhiyao Chen_, _Dirk Hackbarth_, and _Jarrad Harford_
 
-In the context of mergers and acquisitions, this paper analyzes a maturity overhang problem that is due to shorter
-debt maturities creating higher rollover risk. Using bond transaction data, we develop a market-based measure of
-rollover risk and find that i) rollover risk dampens merger activities at the firm and aggregate levels; ii) acquirers
-facing higher rollover risk are more sensitive to changes in cash reserves and prefer equity as a payment method
-over cash; and iii) positive market reactions to cash payment are observed only when firms have low rollover risk.
-To shed light on our empirical findings, we study a dynamic investment model that underscores the importance
-of precautionary savings and rollover risk for maturity overhang.
+In the context of mergers and acquisitions, this paper analyzes a maturity overhang problem that is due to shorter debt maturities creating higher rollover risk. Using bond transaction data, we develop a market-based measure of rollover risk and find that i) rollover risk dampens merger activities at the firm and aggregate levels; ii) acquirers facing higher rollover risk are more sensitive to changes in cash reserves and prefer equity as a payment method over cash; and iii) positive market reactions to cash payment are observed only when firms have low rollover risk. To shed light on our empirical findings, we study a dynamic investment model that underscores the importance of precautionary savings and rollover risk for maturity overhang.
 
 Presented at: AFA, MFA, FIRS, CICF, Asian FA, SFS Cavalcade AP, Spring Finance Workshop, Xiamen University, BU Brownbag
 
