@@ -24,6 +24,8 @@ firms choose between SLLs and conventional loans: SLLs offer lower coupons condi
 targets but incur issuance/verification and compliance costs. The model shows that the financing-cost reduction
 alone is sufficient to generate the observed credit improvements and equity outperformance.
 
+Presented at: AFA 2026 PhD Poster (scheduled), BU Brownbag
+
 ## Working Papers
 
 **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419" style="color: black; text-decoration: underline;text-decoration-style: solid;">Maturity Overhang: Evidence from M&A</a>**
@@ -38,7 +40,7 @@ over cash; and iii) positive market reactions to cash payment are observed only 
 To shed light on our empirical findings, we study a dynamic investment model that underscores the importance
 of precautionary savings and rollover risk for maturity overhang.
 
-Selected Conferences: AFA, MFA, FIRS, CICF
+Presented at: AFA, MFA, FIRS, CICF, Asian FA, SFS Cavalcade AP, Spring Finance Workshop, Xiamen University, BU Brownbag
 
 **<a href="https://www.dropbox.com/scl/fi/9c58ardi3r066gkdpagpp/main.pdf?rlkey=0kwu57z4hxue04etxab2p2suf\&dl=0" style="color: black; text-decoration: underline;text-decoration-style: solid;">Capital Structure and Environmental Risk</a>**
 
@@ -54,10 +56,13 @@ use their lower cost of equity to issue more equity. In a large sample of US fir
 we find evidence consistent with the heterogeneous impacts of ESG rating on both the cost of equity and equity
 issuance.
 
+Presented at: BU Brownbag
 
 ## Teaching
 **Instructor, Boston University**
+
 FE 449: Corporate Financial Management (Undergrad), 2025
 
 **Teaching Assistant, Boston University**
+
 FE 449: Corporate Financial Management (Undergrad), 2022 – 2024
