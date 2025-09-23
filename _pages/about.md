@@ -24,8 +24,7 @@ firms choose between SLLs and conventional loans: SLLs offer lower coupons condi
 targets but incur issuance/verification and compliance costs. The model shows that the financing-cost reduction
 alone is sufficient to generate the observed credit improvements and equity outperformance.
 
-# Working Papers
-**[Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)**
+## Working Papers
 
 **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419" style="color: black; text-decoration: underline;text-decoration-style: solid;">Maturity Overhang: Evidence from M&A</a>**
 
@@ -41,7 +40,7 @@ of precautionary savings and rollover risk for maturity overhang.
 
 Selected Conferences: AFA, MFA, FIRS, CICF
 
-**Capital Structure and Environmental Risk**
+**<a href="https://www.dropbox.com/scl/fi/9c58ardi3r066gkdpagpp/main.pdf?rlkey=0kwu57z4hxue04etxab2p2suf\&dl=0" style="color: black; text-decoration: underline;text-decoration-style: solid;">Capital Structure and Environmental Risk</a>**
 
 with _Dirk Hackbarth_
 
@@ -56,7 +55,7 @@ we find evidence consistent with the heterogeneous impacts of ESG rating on both
 issuance.
 
 
-# Teaching
+## Teaching
 **Instructor, Boston University**
 FE 449: Corporate Financial Management (Undergrad), 2025
 
