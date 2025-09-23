@@ -26,6 +26,9 @@ alone is sufficient to generate the observed credit improvements and equity outp
 
 # Working Papers
 **[Maturity Overhang: Evidence from M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419)**
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280419" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
 with _Zhiyao Chen_, _Dirk Hackbarth_, and _Jarrad Harford_
 
 In the context of mergers and acquisitions, this paper analyzes a maturity overhang problem that is due to shorter
@@ -38,7 +41,8 @@ of precautionary savings and rollover risk for maturity overhang.
 
 Selected Conferences: AFA, MFA, FIRS, CICF
 
-## Capital Structure and Environmental Risk
+**Capital Structure and Environmental Risk**
+
 with _Dirk Hackbarth_
 
 We build a model in which firms incur additional costs to maintain their ESG status, and this status can potentially
