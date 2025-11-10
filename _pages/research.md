@@ -42,7 +42,7 @@ Presented at: BU Brownbag
 
 **Inflexibility and Leverage (R&R at Management Science)**
 
-with _Lifeng Gu_ _Dirk Hackbarth_
+with _Lifeng Gu_ and _Dirk Hackbarth_
 
 We build a model in which firms incur additional costs to maintain their ESG status, and this status can potentially
 attract more investors. That is, firms face the trade-off between the increased distress risk and the added demand
