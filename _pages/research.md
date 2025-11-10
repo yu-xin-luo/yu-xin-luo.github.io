@@ -28,12 +28,14 @@ Presented at: AFA, MFA, FIRS, CICF, Asian FA, SFS Cavalcade AP, Spring Finance W
 
 with _Dirk Hackbarth_
 
-Firms' inflexibility to adjust their scale persistently explains capital structure variations in a comprehensive sample and randomly-selected sub-samples. Higher inflexibility leads to lower financial leverage, potentially due to higher default risk and lower value of tax shields. Contraction inflexibility determines leverage more than expansion inflexibility. Moreover, inflexibility explains financial leverage on top of operating leverage variability and cash flow variability. Interestingly, the substitution effect between financial and operating leverage is much weaker among flexible firms. In addition, inflexible firms increase leverage more than flexible firms following a positive credit supply shock. Analyses employing instrumental variables estimation confirm our main finding.
+We build a model in which firms incur additional costs to maintain their ESG status, and this status can potentially attract more investors. That is, firms face the trade-off between the increased distress risk and the added demand for their stocks from ESG-focused investors. In this setting, the impact of ESG ratings on the cost of equity can be positive or negative. Notably, ESG status can increase the cost of equity for firms with high ESG maintenance costs and high leverage. Furthermore, the net effect of ESG ratings on the cost of equity also depends on the market demand for ESG-focused stocks. Finally, our model suggests firms that benefit from their ESG rating use their lower cost of equity to issue more equity. In a large sample of US firms during the 2002–2022 period, we find evidence consistent with the heterogeneous impacts of ESG rating on both the cost of equity and equity issuance.
 
 Presented at: BU Brownbag
 
 **Inflexibility and Leverage (R&R at Management Science)**
 
 with _Lifeng Gu_ and _Dirk Hackbarth_
+
+Firms' inflexibility to adjust their scale persistently explains capital structure variations in a comprehensive sample and randomly-selected sub-samples. Higher inflexibility leads to lower financial leverage, potentially due to higher default risk and lower value of tax shields. Contraction inflexibility determines leverage more than expansion inflexibility. Moreover, inflexibility explains financial leverage on top of operating leverage variability and cash flow variability. Interestingly, the substitution effect between financial and operating leverage is much weaker among flexible firms. In addition, inflexible firms increase leverage more than flexible firms following a positive credit supply shock. Analyses employing instrumental variables estimation confirm our main finding.
 
 
