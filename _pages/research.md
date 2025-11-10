@@ -40,5 +40,17 @@ issuance.
 
 Presented at: BU Brownbag
 
+**Inflexibility and Leverage (R&R at Management Science)**
 
+with _Lifeng Gu_ _Dirk Hackbarth_
+
+We build a model in which firms incur additional costs to maintain their ESG status, and this status can potentially
+attract more investors. That is, firms face the trade-off between the increased distress risk and the added demand
+for their stocks from ESG-focused investors. In this setting, the impact of ESG ratings on the cost of equity can
+be positive or negative. Notably, ESG status can increase the cost of equity for firms with high ESG maintenance
+costs and high leverage. Furthermore, the net effect of ESG ratings on the cost of equity also depends on the
+market demand for ESG-focused stocks. Finally, our model suggests firms that benefit from their ESG rating
+use their lower cost of equity to issue more equity. In a large sample of US firms during the 2002–2022 period,
+we find evidence consistent with the heterogeneous impacts of ESG rating on both the cost of equity and equity
+issuance.
 
