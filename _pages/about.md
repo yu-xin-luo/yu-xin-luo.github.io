@@ -15,7 +15,7 @@ I am a Ph.D. candidate in Finance at Boston University (BU). My research interes
 
 ## Job Market Paper
 
-**[Sustainability-linked Loans and Financial Performance](https://www.dropbox.com/scl/fi/4zlbs927gtgjafghi0e5i/draft_12Nov2025.pdf?rlkey=8zt2c2ylja3x9mstia1fcg3ck&st=8g0j9v8t&dl=0)**
+**[Sustainability-linked Loans and Financial Performance](https://www.dropbox.com/scl/fi/d2zyubloi0ypjdvj6ah5e/main.pdf?rlkey=7nq0s6xmi5ecmpduh6vf27wmt&dl=0)**
 
 Using a sample of bank loans, I find that firms borrowing sustainability-linked loans (SLLs) experience credit rating upgrades and higher post-borrowing equity returns relative to firms borrowing conventional loans. Channel tests then indicate that these effects arise primarily through reduced financing costs channels. To rationalize the findings, I develop a model in which firms choose between SLLs and conventional loans: SLLs offer lower coupons conditional on meeting sustainability targets but incur borrowing/verification and compliance costs. The model shows that the financing-cost reduction alone is sufficient to generate the observed credit improvements and equity outperformance.
 
