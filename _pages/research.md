@@ -34,7 +34,7 @@ Presented at: BU Brownbag
 
 ## Publications
 
-**[Inflexibility and Leverage]([https://www.dropbox.com/scl/fi/9c58ardi3r066gkdpagpp/main.pdf?rlkey=0kwu57z4hxue04etxab2p2suf\&dl=0](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3296926)) (Accepted at Management Science)**
+**[Inflexibility and Leverage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3296926) (Accepted at Management Science)**
 
 with _Olivia Gu_ and _Dirk Hackbarth_
 
