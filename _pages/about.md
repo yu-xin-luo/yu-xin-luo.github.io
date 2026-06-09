@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. candidate in Finance at Boston University (BU). My research interests are **Corporate Finance**, **Capital Structure**, **ESG (Environmental, Social, and Governance)**. I am on the 2025-2026 job market.
+I am a Ph.D. candidate in Finance at Boston University (BU). My research interests are **Corporate Finance**, **Capital Structure**, **ESG (Environmental, Social, and Governance)**. I will become an Assistant Professor of Finance at School of Finance, Renmin University of China in Sep 2026.
 
 
 ## Job Market Paper
@@ -19,7 +19,8 @@ I am a Ph.D. candidate in Finance at Boston University (BU). My research interes
 
 Using a sample of bank loans, I find that firms borrowing sustainability-linked loans (SLLs) experience credit rating upgrades and higher post-borrowing equity returns relative to firms borrowing conventional loans. Channel tests then indicate that these effects arise primarily through reduced financing costs channels. To rationalize the findings, I develop a model in which firms choose between SLLs and conventional loans: SLLs offer lower coupons conditional on meeting sustainability targets but incur borrowing/verification and compliance costs. The model shows that the financing-cost reduction alone is sufficient to generate the observed credit improvements and equity outperformance.
 
-Presented at: AFA 2026 PhD Poster (scheduled), BU Brownbag
+Awards: Runner-up at 6th Annual FIASI-Gabelli School Student Research Competition
+Presented at: AFA 2026 PhD Poster, BU Brownbag
 
 ## Working Papers
 
@@ -47,11 +48,13 @@ issuance.
 
 Presented at: BU Brownbag
 
-**Inflexibility and Leverage (R&R at Management Science)**
+## Publications
 
-with _Lifeng Gu_ and _Dirk Hackbarth_
+**[Inflexibility and Leverage]([https://www.dropbox.com/scl/fi/9c58ardi3r066gkdpagpp/main.pdf?rlkey=0kwu57z4hxue04etxab2p2suf\&dl=0](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3296926)) (Accepted at Management Science)**
 
-Firms' inflexibility to adjust their scale persistently explains capital structure variations in a comprehensive sample and randomly-selected sub-samples. Higher inflexibility leads to lower financial leverage, potentially due to higher default risk and lower value of tax shields. Contraction inflexibility determines leverage more than expansion inflexibility. Moreover, inflexibility explains financial leverage on top of operating leverage variability and cash flow variability. Interestingly, the substitution effect between financial and operating leverage is much weaker among flexible firms. In addition, inflexible firms increase leverage more than flexible firms following a positive credit supply shock. Analyses employing instrumental variables estimation confirm our main finding.
+with _Olivia Gu_ and _Dirk Hackbarth_
+
+Firms' inflexibility to adjust their scale persistently explains capital structure variations in a comprehensive sample and randomly-selected subsamples. Higher inflexibility leads to lower financial leverage, potentially due to higher default risk and lower value of tax shields. Contraction inflexibility determines leverage more than expansion inflexibility. Moreover, our inflexibility measure explains financial leverage significantly better than other variables that potentially capture certain aspects of adjustment costs for capital or labor. In addition, inflexible firms increase leverage more following a positive credit supply shock. Analyses employing instrumental variables estimation confirm our main finding. Our results suggest inflexibility shapes corporate financial policies. 
 
 
 ## Teaching
