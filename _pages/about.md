@@ -20,6 +20,7 @@ I am a Ph.D. candidate in Finance at Boston University (BU). My research interes
 Using a sample of bank loans, I find that firms borrowing sustainability-linked loans (SLLs) experience credit rating upgrades and higher post-borrowing equity returns relative to firms borrowing conventional loans. Channel tests then indicate that these effects arise primarily through reduced financing costs channels. To rationalize the findings, I develop a model in which firms choose between SLLs and conventional loans: SLLs offer lower coupons conditional on meeting sustainability targets but incur borrowing/verification and compliance costs. The model shows that the financing-cost reduction alone is sufficient to generate the observed credit improvements and equity outperformance.
 
 Awards: Runner-up at 6th Annual FIASI-Gabelli School Student Research Competition
+
 Presented at: AFA 2026 PhD Poster, BU Brownbag
 
 ## Working Papers
