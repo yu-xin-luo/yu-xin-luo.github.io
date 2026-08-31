@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am an Assistant Professor of Finance at School of Finance, Renmin University of China. I received Ph.D. degree in Finance at Boston University (BU). My research interests are **Corporate Finance**, **Capital Structure**, **ESG (Environmental, Social, and Governance)**. 
+I am an Assistant Professor of Finance at the School of Finance, Renmin University of China. I received my Ph.D. in Finance from Boston University (BU). My research interests include corporate finance, capital structure, and ESG (environmental, social, and governance).
 
 
 ## Job Market Paper
