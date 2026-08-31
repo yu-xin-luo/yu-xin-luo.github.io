@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. candidate in Finance at Boston University (BU). My research interests are **Corporate Finance**, **Capital Structure**, **ESG (Environmental, Social, and Governance)**. I will become an Assistant Professor of Finance at School of Finance, Renmin University of China in Sep 2026.
+I am an Assistant Professor of Finance at School of Finance, Renmin University of China. I received Ph.D. degree in Finance at Boston University (BU). My research interests are **Corporate Finance**, **Capital Structure**, **ESG (Environmental, Social, and Governance)**. 
 
 
 ## Job Market Paper
